@@ -1,0 +1,24 @@
+#main-container {
+    padding-top: 70px;
+}
+
+#command-zone{
+    height: 500px;
+    padding: 15px;
+    border: #ccc 1px solid;
+    border-radius: 10px;
+}
+
+
+#command-text-area{
+    width :100%;
+    height: 100%;
+    background-color: #000;
+    border: 0;
+    resize:none;
+    outline-width: 0;
+    font-family: 'Libre Baskerville', serif;
+    color : #191;
+    font-size: 20px;
+
+}
